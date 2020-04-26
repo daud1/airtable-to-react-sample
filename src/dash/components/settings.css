@@ -1,0 +1,30 @@
+.settings .row {
+  padding: 5px 10px;
+  height: 100%;
+}
+
+.settings .col {
+  padding: 5px 10px;
+  height: 100%;
+  align-content: center;
+}
+
+.settings {
+  height: 80vh;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.settings form {
+  width: 80%;
+  padding: 10px;
+}
+
+.settings h4 {
+  margin-bottom: 5px;
+}
+
+.chart-sidebar .form-group{
+  margin-bottom: 30px;
+}
