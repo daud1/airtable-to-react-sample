@@ -18,8 +18,8 @@ class App extends React.Component {
       <Container className="container">
         <Router>
           <Switch>
-            <Route path="/dashboard" component={Dashboard} />
-            <Route path="/" component={SignIn} />
+            <Route path="/" component={Dashboard} />
+            <Route path="/login" component={SignIn} />
           </Switch>
         </Router>
       </Container>
